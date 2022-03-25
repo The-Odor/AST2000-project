@@ -1,0 +1,53 @@
+Model segment   : 318
+Centre Accuracy : 300
+Width Accuracy  : 30
+Fmin Accuracy   : 30
+
+  630 : O2      Fmin  :0.834483
+      Centre:629.998384
+      Sigma :0.021015 
+
+  690 : O2      Fmin  :0.855172
+      Centre:689.976983
+      Sigma :0.023017 
+
+  760 : O2      Fmin  :0.700000
+      Centre:759.974648
+      Sigma :0.025352 
+
+  720 : H2O      Fmin  :0.700000
+      Centre:719.975982
+      Sigma :0.024018 
+
+  820 : H2O      Fmin  :0.700000
+      Centre:819.972647
+      Sigma :0.027353 
+
+  940 : H2O      Fmin  :0.700000
+      Centre:939.968854
+      Sigma :0.031356 
+
+  1400 : CO2      Fmin  :0.700000
+      Centre:1399.953300
+      Sigma :0.046700 
+
+  1600 : CO2      Fmin  :0.700000
+      Centre:1599.946628
+      Sigma :0.053372 
+
+  1660 : CH4      Fmin  :0.700000
+      Centre:1659.944626
+      Sigma :0.055374 
+
+  2200 : CH4      Fmin  :0.803448
+      Centre:2199.926613
+      Sigma :0.073387 
+
+  2340 : CO      Fmin  :0.772414
+      Centre:2339.922466
+      Sigma :0.078056 
+
+  2870 : N2O      Fmin  :0.720690
+      Centre:2869.904265
+      Sigma :0.095735 
+
